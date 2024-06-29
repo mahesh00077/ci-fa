@@ -1,4 +1,5 @@
 <?php
+echo 'project 1';die;
 /**
  * CodeIgniter
  *
